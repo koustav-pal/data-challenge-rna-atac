@@ -1,6 +1,6 @@
 # Recruitment Data Challenge
 
-The Bioinformatics & Biostatistics Group @ The Francis Crick Institute
+Patani lab @ The Life Science Institute
 
 ### Introduction
 
@@ -30,5 +30,9 @@ Suggested aims:
 3. Present candidate transcription factors that may be responsible for the underlying regulation.
 
 **Please produce a 20 minute presentation detailing your exploration of the data, your analysis approach and findings.**
+
+**Please do not use any AI tools for the purposes of this exercise**
+
+**Please provide a written declaration stating that No AI tools were used for the purpose of this exercise.**
 
 **We recognise exposure to these types of data will be variable amongst candidates.  Greater credit will be placed on a candidate's ability to discuss the rationale behind their approach, challenges faced and potential future analysis direction than necessarily a "correct" answer.**
